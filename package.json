@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moments": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,5 +13,8 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Omar Raza",
-	"description": "NPM challenge 2 on FCC"
+	"description": "NPM challenge 2 on FCC",
+	"keywords": ["freecodecamp", "challenge3", "NPM"],
+	"license": "MIT",
+	"version": "1.0"
 }
